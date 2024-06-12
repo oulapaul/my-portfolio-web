@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Fidel Molday's Portfolio, which depicts his impressive repertoire of skills at a young age.">
-    <meta name="keywords" content="Fidel Ouma Molday, FrontEnd Web Developer, Developer, Student Developer, Web Developer, Web Designer,  Programmer, Computer Science Student, Junior Developer, Google Developer Student Clubs Lead, Microsoft Learn Student Ambassador, Postman Student Leader, Angular, Frontend Engineer">
-    <meta name="author" content="Fidel Ouma">
+    <meta name="description" content="oula paul's Portfolio, which depicts his impressive repertoire of skills at a young age.">
+    <meta name="keywords" content="oula paul, FrontEnd Web Developer, Developer, Student Developer, Web Developer, Web Designer,  Programmer, Computer Science Student, Junior Developer, Google Developer Student Clubs Lead, Microsoft Learn Student Ambassador, Postman Student Leader, Angular, Frontend Engineer">
+    <meta name="author" content="oula paul">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>oula paul Portfolio Website</title>
